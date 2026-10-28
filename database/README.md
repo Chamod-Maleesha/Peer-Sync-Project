@@ -20,3 +20,4 @@ When our team is ready to connect PostgreSQL:
    psql -d peer_sync_db -f schema.sql
    ```
 4. Configure credentials in `backend/.env`.
+

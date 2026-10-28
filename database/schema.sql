@@ -55,3 +55,4 @@ CREATE TABLE IF NOT EXISTS session_attendees (
     joined_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (session_id, student_id)
 );
+

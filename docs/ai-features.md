@@ -38,3 +38,4 @@ The Peer Sync platform aims to incorporate artificial intelligence to enhance pe
 2. **Phase 2:** PostgreSQL database connection, user registration, and resource catalog.
 3. **Phase 3:** Review project requirements and select one or two high-impact AI features (e.g., Study Resource Recommender).
 4. **Phase 4:** Integrate selected AI API or model, conduct testing, and present university project demo.
+

@@ -21,3 +21,4 @@ This directory organizes learning materials, documentation links, and project re
 | ------------ | ------------ | ------------------------ | ---------------------- |
 | *CS101*      | Intro to Programming | Computer Science | *Add link / notes here* |
 | *CS201*      | Data Structures      | Computer Science | *Add link / notes here* |
+
